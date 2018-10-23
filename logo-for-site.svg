@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.57112404"
-     inkscape:cx="159.02017"
-     inkscape:cy="425.1393"
+     inkscape:zoom="0.6589885"
+     inkscape:cx="59.431256"
+     inkscape:cy="320.58167"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -61,12 +61,12 @@
      id="layer2"
      inkscape:label="Layer 2">
     <rect
-       style="fill:#ffffff;fill-opacity:1"
+       style="fill:#b3b3b3;fill-opacity:1"
        id="rect3347"
-       width="1052.3622"
-       height="744.09448"
-       x="0"
-       y="5.7671014e-006" />
+       width="738.24438"
+       height="442.11655"
+       x="156.30016"
+       y="45.524323" />
     <path
        transform="translate(0,-308.26772)"
        inkscape:connector-curvature="0"
@@ -94,7 +94,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#00adef;fill-opacity:1">MJZSoft</flowPara></flowRoot>    <path
        transform="translate(0,-308.26772)"
        inkscape:connector-curvature="0"
-       style="fill:#414042;fill-opacity:1"
+       style="fill:#ffffff;fill-opacity:1"
        d="m 883.89744,340.74731 -711.28134,0 c -14.53736,0 -26.43392,11.28397 -26.43392,25.07277 l 0,426.22078 c 0,13.78472 11.89656,25.07277 26.43392,25.07277 l 276.6443,0 0,90.88368 -97.83474,0 0,44.67898 351.47731,0 0,-44.67898 -97.83042,0 0,-90.88368 278.82919,0 c 14.54167,0 26.43392,-11.28397 26.43392,-25.07277 l 0,-426.22078 c -0.005,-13.7888 -11.89655,-25.07277 -26.43822,-25.07277 z m 0.54193,444.67247 c -237.53838,0.0621 -475.07622,0.004 -712.61465,0.004 l 0,-417.69865 712.61465,0 z"
        id="path3"
        sodipodi:nodetypes="sssssccccccccsscsccccc" />
